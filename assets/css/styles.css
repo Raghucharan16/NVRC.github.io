@@ -489,7 +489,7 @@ body.dark-theme {
 }
 
 /* For large devices */
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 1200px) {
   .container {
     margin-left: auto;
     margin-right: auto;
